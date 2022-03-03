@@ -1,0 +1,1 @@
+This project contains all the files required for the react course on udemy
